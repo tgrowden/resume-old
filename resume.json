@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "Taylor Growden",
+    "label": "Programmer",
+    "picture": "",
+    "email": "taylor.growden@gmail.com",
+    "phone": "(240) 356-3620",
+    "website": "http://tgrowden.com",
+    "summary": "Taylor lives in Frostburg, MD. He is a student currently pursuing a degree in Computer Science (with a focus in software development), and works as a freelance web developer.",
+    "location": {
+      "address": "289 E. Main Street, Apt 3",
+      "postalCode": "MD 21532",
+      "city": "Frostburg",
+      "countryCode": "US",
+      "region": "Maryland"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "tgrowden",
+        "url": "https://github.com/tgrowden"
+      },
+      {
+        "network": "Linkedin",
+        "username": "Taylor Growden",
+        "url": "https://linkedin.com/tgrowden"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Freelance",
+      "position": "Web Developer",
+      "website": "http://tgrowden.com",
+      "startDate": "Mar 2015",
+      "endDate": "Present",
+      "summary": "I work as a freelance web developer, designing and coding sites for businesses and individuals, ranging from single static pages to complex apps with custom backends.",
+      "highlights": [
+        "Configured and maintain several virtual private servers for web hosting.",
+        "Regularly meet deadlines and fulfill clients' needs."
+      ]
+    },
+    {
+      "company": "Archway Station, Inc.",
+      "position": "Certified Medication Technician",
+      "website": "http://www.archwaystationinc.org/",
+      "startDate": "Mar 2012",
+      "endDate": "Mar 2015",
+      "summary": "",
+      "highlights": [
+        "Worked one-on-one with individuals with developmental disabilities.",
+        "Complied with all HIPAA requirements while documenting on paper and electronically.",
+        "Created and maintained Excel databases for staff utilization-tracking."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Allegany College of Maryland",
+      "area": "Computer Science",
+      "studyType": "A.A.S.",
+      "startDate": "Aug 2014",
+      "endDate": "Expected: Dec 2016",
+      "gpa": "3.4",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Intermediate",
+      "keywords": [
+        "Node.js",
+        "PHP",
+        "Bash",
+        "Apache",
+        "nginx"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
