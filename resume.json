@@ -106,5 +106,8 @@
     }
   ],
   "interests": [],
-  "references": []
+  "references": [{
+    "name": "Paul Maxey",
+    "reference": "Taylor Growden would be an asset to any organization needing a junior developer. He is an efficient, and quick learner who dabbles in the latest cutting-edge technologies. His code is clean, well written, and he strives to adhere to best practices."
+    }]
 }
