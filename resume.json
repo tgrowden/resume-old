@@ -6,7 +6,7 @@
     "email": "taylor.growden@gmail.com",
     "phone": "(240) 356-3620",
     "website": "http://tgrowden.com",
-    "summary": "Taylor lives in Frostburg, MD. He is a student currently pursuing a degree in Computer Science (with a focus in software development), and works as a freelance web developer.",
+    "summary": "Taylor lives in Frostburg, MD. He is works as a software developer and enjoys music, coffee, and problem solving.",
     "location": {
       "address": "289 E. Main Street, Apt 3",
       "postalCode": "MD 21532",
@@ -66,20 +66,6 @@
       ]
     }
   ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "Allegany College of Maryland",
-      "area": "Computer Science",
-      "studyType": "A.A.S.",
-      "startDate": "Aug 2014",
-      "endDate": "Expected: Dec 2016",
-      "gpa": "3.4",
-      "courses": []
-    }
-  ],
-  "awards": [],
-  "publications": [],
   "skills": [
     {
       "name": "Frontend",
@@ -131,6 +117,6 @@
   "interests": [],
   "references": [{
     "name": "Paul Maxey",
-    "reference": "Taylor Growden would be an asset to any organization needing a junior developer. He is an efficient, and quick learner who dabbles in the latest cutting-edge technologies. His code is clean, well written, and he strives to adhere to best practices."
+    "reference": "Taylor Growden would be an asset to any organization needing a developer. He is an efficient, and quick learner who dabbles in the latest cutting-edge technologies. His code is clean, well written, and he strives to adhere to best practices."
     }]
 }
