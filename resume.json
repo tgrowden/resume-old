@@ -29,12 +29,24 @@
   },
   "work": [
     {
+      "company": "Willetts Systems",
+      "position": "Software Developer",
+      "website": "http://teamwilletts.com",
+      "startDate": "Mar 2016",
+      "endDate": "Present",
+      "summary": "I work on custom web-based apps for a variety of clients in various sectors.",
+      "highlights": [
+        "Designed and maintain custom API serving data to multiple different clients (including web and mobile)",
+        "Regularly keep up on emerging technologies, finding the right tool for the job."
+      ]
+    },
+    {
       "company": "Freelance",
       "position": "Web Developer",
       "website": "http://tgrowden.com",
       "startDate": "Mar 2015",
-      "endDate": "Present",
-      "summary": "I work as a freelance web developer, designing and coding sites for businesses and individuals, ranging from single static pages to complex apps with custom backends.",
+      "endDate": "Mar 2016",
+      "summary": "I worked as a freelance web developer, designing and coding sites for businesses and individuals, ranging from single static pages to complex apps with custom backends.",
       "highlights": [
         "Configured and maintain several virtual private servers for web hosting.",
         "Regularly meet deadlines and fulfill clients' needs."
@@ -75,7 +87,9 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "jQuery",
+        "Angular JS"
       ]
     },
     {
@@ -87,6 +101,15 @@
         "Bash",
         "Apache",
         "nginx"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Intermediate",
+      "keywords": [
+        "CakePHP",
+        "Express",
+        "Django"
       ]
     },
     {
