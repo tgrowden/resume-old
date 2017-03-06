@@ -6,7 +6,7 @@
     "email": "taylor.growden@gmail.com",
     "phone": "(240) 356-3620",
     "website": "http://tgrowden.com",
-    "summary": "Taylor lives in Frostburg, MD. He is works as a software developer and enjoys music, coffee, and problem solving.",
+    "summary": "Taylor lives in Frostburg, MD. He is a full-stack web app developer who enjoys music, coffee, craft beer, opensource software, and solving problems.",
     "location": {
       "address": "289 E. Main Street, Apt 3",
       "postalCode": "MD 21532",
@@ -37,7 +37,8 @@
       "summary": "I work on custom web-based apps for a variety of clients in various sectors.",
       "highlights": [
         "Designed and maintain custom API serving data to multiple different clients (including web and mobile)",
-        "Regularly keep up on emerging technologies, finding the right tool for the job."
+        "Regularly keep up on emerging technologies, finding the right tool for the job.",
+	"Regularly added new features and maintained an electronic medical record app."
       ]
     },
     {
@@ -73,9 +74,9 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript",
-        "jQuery",
-        "Angular JS"
+        "JavaScript",
+        "Angular",
+	"React"
       ]
     },
     {
@@ -94,7 +95,7 @@
       "level": "Intermediate",
       "keywords": [
         "CakePHP",
-        "Express",
+        "Express.js",
         "Django"
       ]
     },
