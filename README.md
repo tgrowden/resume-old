@@ -1,3 +1,3 @@
 # Resume
 
-[My professional resume](http://registry.jsonresume.org/tgrowden) in JSON format.
+My professional resume in [JSON](resume.json), [HTML](https://tgrowden.github.io/resume/), and [PDF](https://tgrowden.github.io/resume/resume.pdf) formats.
