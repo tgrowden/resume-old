@@ -1,0 +1,28 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My resume in JSON format.",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/hackmyresume BUILD resume.json TO resume.pdf --theme node_modules/jsonresume-theme-flat && mv resume.pdf.html index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgrowden/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "json"
+  ],
+  "author": "Taylor Growden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tgrowden/resume/issues"
+  },
+  "homepage": "https://github.com/tgrowden/resume#readme",
+  "devDependencies": {
+    "hackmyresume": "^1.8.0",
+    "jsonresume-theme-flat": "^0.3.7"
+  }
+}
