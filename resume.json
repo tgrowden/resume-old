@@ -38,7 +38,7 @@
       "highlights": [
         "Designed and maintain custom API serving data to multiple different clients (including web and mobile)",
         "Regularly keep up on emerging technologies, finding the right tool for the job.",
-	"Regularly added new features and maintained an electronic medical record app."
+	      "Regularly added new features and maintained an electronic medical record app."
       ]
     },
     {
@@ -76,7 +76,7 @@
         "CSS",
         "JavaScript",
         "Angular",
-	"React"
+	      "React"
       ]
     },
     {
@@ -116,8 +116,14 @@
     }
   ],
   "interests": [],
-  "references": [{
-    "name": "Paul Maxey",
-    "reference": "Taylor Growden would be an asset to any organization needing a developer. He is an efficient, and quick learner who dabbles in the latest cutting-edge technologies. His code is clean, well written, and he strives to adhere to best practices."
-    }]
+  "references": [
+    {
+      "name": "Paul Maxey",
+      "reference": "Taylor Growden would be an asset to any organization needing a developer. He is an efficient, and quick learner who dabbles in the latest cutting-edge technologies. His code is clean, well written, and he strives to adhere to best practices."
+    },
+    {
+      "name": "Wayne Lorper, Manager of Financial Operations, Bull Realty, Inc.",
+      "reference": "[Taylor has] been patient, professional and have helped us develop a top shelf site."
+    }
+  ]
 }
