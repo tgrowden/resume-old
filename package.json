@@ -4,7 +4,7 @@
   "description": "My resume in JSON format.",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/.bin/hackmyresume BUILD resume.json TO resume.pdf --theme node_modules/jsonresume-theme-flat && mv resume.pdf.html index.html",
+    "build": "resume export --format html index.html --theme flat index.html && resume export --format pdf --theme flat resume.pdf",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
