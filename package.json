@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/tgrowden/resume#readme",
   "devDependencies": {
-    "hackmyresume": "^1.8.0",
-    "jsonresume-theme-flat": "^0.3.7"
+    "jsonresume-theme-flat": "^0.3.7",
+    "resume-cli": "^0.4.19"
   }
 }
