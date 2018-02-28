@@ -29,11 +29,22 @@
   },
   "work": [
     {
+      "company": "Exclamation Labs",
+      "position": "Web App Developer",
+      "website": "https://www.exclamationlabs.com/",
+      "startDate": "Nov 2017",
+      "endDate": "Present",
+      "summary": "As an agency that focuses in the financial and insurance sectors, I specialize in taking the clients' specific, complex needs and implementing simple-to-the-user solutions.",
+      "highlights": [
+        "Glowing commendations from colleagues across teams in first performance review."
+      ]
+    },
+    {
       "company": "Willetts Systems",
       "position": "Software Developer",
       "website": "http://teamwilletts.com",
       "startDate": "Mar 2016",
-      "endDate": "Present",
+      "endDate": "Nov 2017",
       "summary": "I work on custom web-based apps for a variety of clients in various sectors.",
       "highlights": [
         "Designed and maintain custom API serving data to multiple different clients (including web and mobile)",
